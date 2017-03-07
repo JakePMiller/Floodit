@@ -5,7 +5,7 @@
 
 public class Tile {
   private Coord coord;
-  private WaterColor color;
+  WaterColor color;
   
   /**
    * Constructs a tile at the origin with a randomly selected color.
